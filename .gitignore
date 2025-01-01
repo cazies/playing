@@ -1,0 +1,26 @@
+# Python cache and environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env/
+*.env
+
+
+# Streamlit configuration
+.streamlit/secrets.toml
+
+# IDE and OS-specific files
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Logs and output files
+logs/
+*.log
+
+# Other sensitive files
+*.key
+*.pem
